@@ -28,8 +28,8 @@ This SDK provides a drop-in set of screens and tools for Android applications to
 
 \* Note: the SDK is only responsible for providing interfaces to different verification techniques. You still need to access the [SurePass API](https://documentation.onfido.com/) to create and manage checks.
 
-![Various views from the SDK](https://files.slack.com/files-pri/TJP7XSM63-FKJJH4ADA/screenshot_20190614-124500.png "")
-![Various views from the SDK](https://files.slack.com/files-pri/TJP7XSM63-FK7L80GBU/screenshot_20190614-124507.png "")
-![Various views from the SDK](https://files.slack.com/files-pri/TJP7XSM63-FKCN02WTT/screenshot_20190614-124523.png "")
-![Various views from the SDK](https://files.slack.com/files-pri/TJP7XSM63-FKK385KJ9/screenshot_20190614-124627.png "")
-![Various views from the SDK](https://files.slack.com/files-pri/TJP7XSM63-FKCN03RAM/screenshot_20190614-124705.png "")
+![Various views from the SDK](Screenshot_20190614-124500.png "")
+![Various views from the SDK](Screenshot_20190614-124507.png "")
+![Various views from the SDK](Screenshot_20190614-124523.png "")
+![Various views from the SDK](Screenshot_20190614-124627.png "")
+![Various views from the SDK](Screenshot_20190614-124705.png "")
